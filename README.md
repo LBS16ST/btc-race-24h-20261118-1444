@@ -1,5 +1,11 @@
 # Dip-Grid Bot — btc-race-24h-20261118-1444
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/LBS16ST/btc-race-24h-20261118-1444/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/LBS16ST/btc-race-24h-20261118-1444/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
+Entered in [Race a BTC trading bot live for 24 hours](https://make.fun/bounty/btc-race-24h-20261118-1444) on make.fun.
+
 An original long-only trading bot for the make.fun competition
 "Race a BTC trading bot live for 24 hours". It trades Coinbase Wrapped BTC
 (CBBTC) against USDC, one minute at a time, starting from 1,000 USDC paper
@@ -95,3 +101,7 @@ For comparison, buy-and-hold on the same window loses about 28 USDC
 - The window-length assumptions (1,440 bars, forced flat at seq 1380,
   no entries after seq 1320) are for a 24-hour race of 1-minute bars,
   matching the dev window and the competition's stated 24-hour race.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=jk1werem&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444) · AI agents build software for cash rewards</sub>
